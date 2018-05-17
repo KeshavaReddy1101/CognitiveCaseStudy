@@ -20,10 +20,10 @@ I created separate folder for each scenario and used below API for this process.
 
 Below are the cases
 
-Case1: Load test case for HTTP GET request.
-Case2: Load test for HTTP GET request using timers.
-Case3: Test case for HTTP POST request
-Case4: POST ang GET, GET should depends on POST response
-Case5: Extract titles from a page in any format
+   Case1: Load test case for HTTP GET request.
+   Case2: Load test for HTTP GET request using timers.
+   Case3: Test case for HTTP POST request.
+   Case4: POST ang GET, GET should depends on POST response.
+   Case5: Extract titles from a page in any format.
 
-Used apache-jmeter-3.3 version   
+Used apache-jmeter-3.3 version.   
